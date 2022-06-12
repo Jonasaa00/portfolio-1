@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+div class="container">
+    <img class="main-img" src="/img/bakgrunn.png" alt="">
+    <p>museum project</p>
+    <img  class="main-img" src="/img/bakgrunn.png" alt="">
+    <p>museum project</p>
+    <img class="main-img" src="/img/bakgrunn.png" alt="">
+    <p>museum project</p>
+    <img class="main-img" src="/img/bakgrunn.png" alt="">
+</div>
+
+
+
+
+.main-img{
+    height: 200px;
+}
+
+.container  {
+    margin-top: 100px;
+    text-align: center;
+}
